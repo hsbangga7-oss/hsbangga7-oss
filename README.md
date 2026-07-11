@@ -169,17 +169,6 @@ fun_fact:
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hsbangga7-oss&theme=tokyonight&column=4&margin-w=15"/>
-
-</div>
-
----
-
-
 # 📫 Connect
 
 <p align="center">
