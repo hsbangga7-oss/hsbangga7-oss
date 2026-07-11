@@ -45,6 +45,17 @@ fun_fact:
 </p>
 
 ---
+# 📊 Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hsbangga7-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsbangga7-oss&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+---
+
 # ⚡ Tech Stack
 
 <div align="center">
@@ -146,18 +157,6 @@ fun_fact:
 ✔ Event Driven
 
 🔗 https://github.com/hsbangga7-oss/serverless-image-processing
-
----
-
-# 📊 Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hsbangga7-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsbangga7-oss&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
