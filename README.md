@@ -38,7 +38,13 @@ fun_fact:
 ```
 
 ---
+## 🐍 Contribution Graph
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/hsbangga7-oss/hsbangga7-oss/output/github-contribution-grid-snake.svg">
+</p>
+
+---
 # ⚡ Tech Stack
 
 <div align="center">
@@ -172,13 +178,7 @@ fun_fact:
 </div>
 
 ---
-## 🐍 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hsbangga7-oss/hsbangga7-oss/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 # 📫 Connect
 
