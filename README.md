@@ -1,12 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,30:2563eb,70:06b6d4,100:38bdf8&text=Harshpreet%20Singh%20Bangga&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=58&animation=fadeIn"/>
+# Hi 👋 I'm Harshpreet Singh Bangga
+
+### ☁️ Cloud & DevOps Engineer
+
+Building reliable cloud infrastructure, automating deployments, and continuously learning modern DevOps technologies.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;AWS+%7C+Docker+%7C+Terraform;Infrastructure+as+Code;CI%2FCD+Automation;Linux+Enthusiast;Currently+Learning+Kubernetes"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Cloud+Infrastructure;Automating+Everything;AWS+%7C+Docker+%7C+Terraform;CI%2FCD+Engineer;Currently+Learning+Kubernetes"/>
+<a href="https://www.linkedin.com/in/hsbangga">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<br><br>
+<a href="mailto:hsbangga7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=hsbangga7-oss&style=for-the-badge&color=blue"/>
 
@@ -14,157 +24,239 @@
 
 ---
 
-# 💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
-name: Harshpreet Singh Bangga
+Name: Harshpreet Singh Bangga
 
-role: Cloud & DevOps Engineer
+Role: Cloud & DevOps Engineer
 
-location: Delhi, India
-
-focus:
+Focus:
   - AWS
   - Docker
   - Terraform
-  - CI/CD
+  - GitHub Actions
   - Linux
+  - Infrastructure as Code
 
-currently_learning:
+Currently Learning:
   - Kubernetes
+  - Amazon ECS
 
-fun_fact:
-  "Automate first. Repeat never."
+Open To:
+  - DevOps Engineer
+  - Cloud Engineer
+  - Platform Engineer
+
+Goal:
+  Build scalable, automated, production-ready cloud infrastructure.
 ```
 
 ---
-## 🐍 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hsbangga7-oss/hsbangga7-oss/output/github-contribution-grid-snake.svg">
+# 🚀 Tech Stack
+
+### Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+</p>
+
+### DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,git,linux,bash"/>
+
+</p>
+
+### Monitoring
+
+<p>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ---
-# 📊 Analytics
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hsbangga7-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsbangga7-oss&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,linux,bash,mysql"/>
-
-</div>
-
----
-
-# ☁ Cloud Architecture
+# ☁ Cloud Native Workflow
 
 ```text
 
-                GitHub
+                 Developer
 
-                  │
+                     │
 
-                  ▼
+                     ▼
 
-          GitHub Actions
+               GitHub Push
 
-                  │
+                     │
 
-                  ▼
+                     ▼
 
-        Docker Image Build
+             GitHub Actions CI
 
-                  │
+                     │
 
-                  ▼
+                     ▼
 
-          AWS EC2 Instance
+            Docker Image Build
 
-                  │
+                     │
 
-        ┌─────────┴─────────┐
+                     ▼
 
-        ▼                   ▼
+          Terraform Infrastructure
 
-     Nginx             Application
+                     │
 
-        │
+                     ▼
 
-        ▼
+                AWS EC2 Instance
 
- Prometheus + Grafana
+                     │
+
+             Nginx Reverse Proxy
+
+                     │
+
+                     ▼
+
+              Docker Container
+
+                     │
+
+          ┌──────────┴──────────┐
+
+          ▼                     ▼
+
+    Prometheus             Grafana
 
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-## ☁ Cloud Native Deployment
+## ☁ Cloud Native Application Deployment
 
-> Production-style deployment on AWS
+Production-ready deployment using Docker, Terraform and AWS.
 
-✔ Docker
+### Highlights
 
-✔ Terraform
+- Dockerized application deployment
+- Infrastructure as Code
+- GitHub Actions CI/CD
+- Prometheus Monitoring
+- Grafana Dashboards
+- Nginx Reverse Proxy
 
-✔ GitHub Actions
+🔗
 
-✔ Nginx
-
-✔ Prometheus
-
-✔ Grafana
-
-🔗 https://github.com/hsbangga7-oss/ec2-docker-cicd
+https://github.com/hsbangga7-oss/ec2-docker-cicd
 
 ---
 
-## ⚙ CI/CD Automation
+## ⚙ CI/CD Pipeline Automation
 
-> Fully automated deployment pipeline
+End-to-end deployment automation using GitHub Actions.
 
-✔ GitHub Actions
+### Highlights
 
-✔ AWS S3
+- Automated Builds
+- Continuous Deployment
+- AWS S3 Deployment
+- Zero Manual Intervention
 
-✔ Zero Manual Deployment
+🔗
 
-🔗 https://github.com/hsbangga7-oss/ci-cd-github-actions
+https://github.com/hsbangga7-oss/ci-cd-github-actions
 
 ---
 
 ## 🚀 Serverless Image Processing
 
-> AWS Lambda Event Driven Architecture
+AWS Lambda event-driven architecture.
 
-✔ Lambda
+### Highlights
 
-✔ S3
+- AWS Lambda
+- Amazon S3
+- Event Driven
+- Auto Scaling
+- Pay-per-use
 
-✔ Auto Scaling
+🔗
 
-✔ Event Driven
-
-🔗 https://github.com/hsbangga7-oss/serverless-image-processing
+https://github.com/hsbangga7-oss/serverless-image-processing
 
 ---
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img width="95%" src="https://streak-stats.demolab.com?user=hsbangga7-oss&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hsbangga7-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsbangga7-oss&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hsbangga7-oss&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hsbangga7-oss&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Kubernetes
+
+- ✅ Deploy Applications on Amazon EKS
+
+- ✅ Learn GitOps
+
+- ✅ Contribute to Open Source
+
+- ✅ Earn AWS Certification
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/hsbangga7-oss/hsbangga7-oss/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
@@ -172,15 +264,15 @@ fun_fact:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/hsbangga">
+<a href="YOUR_LINKEDIN_URL">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 <a href="mailto:hsbangga7@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 
 </a>
 
@@ -190,16 +282,22 @@ fun_fact:
 
 <div align="center">
 
-### 💭 DevOps Philosophy
+## 💭 DevOps Mindset
 
-> **Build Once.**
->
-> **Deploy Automatically.**
->
-> **Monitor Continuously.**
->
-> **Improve Forever.**
+*"Infrastructure should be reproducible.*
+
+*Deployments should be automated.*
+
+*Systems should be observable.*
+
+*Reliability should never be an afterthought."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f172a,30:2563eb,70:06b6d4,100:38bdf8"/>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
