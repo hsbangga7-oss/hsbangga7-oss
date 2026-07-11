@@ -178,8 +178,6 @@ fun_fact:
 <img src="https://raw.githubusercontent.com/hsbangga7-oss/hsbangga7-oss/output/github-contribution-grid-snake.svg">
 </p>
 
-```
-
 ---
 
 # 📫 Connect
