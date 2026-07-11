@@ -18,8 +18,6 @@ Building reliable cloud infrastructure, automating deployments, and continuously
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=hsbangga7-oss&style=for-the-badge&color=blue"/>
-
 </div>
 
 ---
@@ -221,16 +219,6 @@ https://github.com/hsbangga7-oss/serverless-image-processing
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=hsbangga7-oss&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hsbangga7-oss&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
