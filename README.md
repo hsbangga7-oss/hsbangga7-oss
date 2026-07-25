@@ -1,291 +1,74 @@
-<div align="center">
+# Harshpreet Singh Bangga
 
-# Hi 👋 I'm Harshpreet Singh Bangga
+**Junior DevOps Engineer** · Delhi NCR, India
 
-### ☁️ Cloud & DevOps Engineer
+I build and automate cloud infrastructure — CI/CD pipelines, containerized deployments, and Infrastructure as Code. I learn by shipping real, working systems rather than just following tutorials.
 
-Building reliable cloud infrastructure, automating deployments, and continuously learning modern DevOps technologies.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;AWS+%7C+Docker+%7C+Terraform;Infrastructure+as+Code;CI%2FCD+Automation;Linux+Enthusiast;Currently+Learning+Kubernetes"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/hsbangga">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:hsbangga7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsbangga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hsbangga7@gmail.com)
 
 ---
 
-# 👨‍💻 About Me
+## About
 
-```yaml
-Name: Harshpreet Singh Bangga
+- 🎓 CS graduate, Guru Tegh Bahadur Institute of Technology, Delhi (2025)
+- 🔍 Actively looking for **Junior DevOps / Cloud Engineer** roles
+- 🛠️ Currently building **BikeHub**, a full-stack wholesale distribution system, to practice real-world DevOps end-to-end
+- 📚 Learning Kubernetes and Amazon ECS
 
-Role: Cloud & DevOps Engineer
+## Tech Stack
 
-Focus:
-  - AWS
-  - Docker
-  - Terraform
-  - GitHub Actions
-  - Linux
-  - Infrastructure as Code
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Currently Learning:
-  - Kubernetes
-  - Amazon ECS
+**CI/CD & Monitoring**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-Open To:
-  - DevOps Engineer
-  - Cloud Engineer
-  - Platform Engineer
-
-Goal:
-  Build scalable, automated, production-ready cloud infrastructure.
-```
-
----
-
-# 🚀 Tech Stack
-
-### Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-</p>
-
-### DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,terraform,githubactions,git,linux,bash"/>
-
-</p>
-
-### Monitoring
-
-<p>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
+**Application**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-# ☁ Cloud Native Workflow
+## Featured Project
 
-```text
+### 🚲 BikeHub — Bicycle Wholesale Distribution System
+A full-stack management system for a bicycle wholesale distributor, built to practice production-style DevOps from the ground up — not just app code.
 
-                 Developer
+- **Backend:** Node.js, Express, TypeScript, Prisma ORM
+- **Frontend:** React, Vite, TypeScript
+- **Infra:** Dockerized multi-stage builds, Nginx reverse proxy, EC2 deployment via Docker Compose
+- **CI/CD:** GitHub Actions pipeline pushing images to Docker Hub and auto-deploying to EC2
+- **Reliability:** Automated PostgreSQL backups to S3 with a tested restore script and disaster-recovery runbook
+- **Auth:** JWT with bcrypt, role-based access control (admin/staff)
+- Also has a parallel, cost-conscious Terraform path (ECS/ECR/RDS/ALB) built and tested for portfolio purposes
 
-                     │
-
-                     ▼
-
-               GitHub Push
-
-                     │
-
-                     ▼
-
-             GitHub Actions CI
-
-                     │
-
-                     ▼
-
-            Docker Image Build
-
-                     │
-
-                     ▼
-
-          Terraform Infrastructure
-
-                     │
-
-                     ▼
-
-                AWS EC2 Instance
-
-                     │
-
-             Nginx Reverse Proxy
-
-                     │
-
-                     ▼
-
-              Docker Container
-
-                     │
-
-          ┌──────────┴──────────┐
-
-          ▼                     ▼
-
-    Prometheus             Grafana
-
-```
+🔗 [github.com/hsbangga7-oss/bicycle-management-system](https://github.com/hsbangga7-oss/bicycle-management-system)
 
 ---
 
-# 🌟 Featured Projects
+## Other Projects
 
-## ☁ Cloud Native Application Deployment
-
-Production-ready deployment using Docker, Terraform and AWS.
-
-### Highlights
-
-- Dockerized application deployment
-- Infrastructure as Code
-- GitHub Actions CI/CD
-- Prometheus Monitoring
-- Grafana Dashboards
-- Nginx Reverse Proxy
-
-🔗
-
-https://github.com/hsbangga7-oss/ec2-docker-cicd
+| Project | Description | Stack |
+|---|---|---|
+| [ec2-docker-cicd](https://github.com/hsbangga7-oss/ec2-docker-cicd) | Dockerized app deployment to AWS EC2 with Terraform, CI/CD, and monitoring | Docker, Terraform, GitHub Actions, Prometheus, Grafana |
+| [ci-cd-github-actions](https://github.com/hsbangga7-oss/ci-cd-github-actions) | Automated build & deploy pipeline to AWS S3 | GitHub Actions, AWS S3 |
+| [serverless-image-processing](https://github.com/hsbangga7-oss/serverless-image-processing) | Event-driven image processing on AWS Lambda | AWS Lambda, S3 |
 
 ---
 
-## ⚙ CI/CD Pipeline Automation
+## GitHub Stats
 
-End-to-end deployment automation using GitHub Actions.
-
-### Highlights
-
-- Automated Builds
-- Continuous Deployment
-- AWS S3 Deployment
-- Zero Manual Intervention
-
-🔗
-
-https://github.com/hsbangga7-oss/ci-cd-github-actions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsbangga7-oss&show_icons=true&theme=default&hide_border=true&hide_title=true)
 
 ---
 
-## 🚀 Serverless Image Processing
-
-AWS Lambda event-driven architecture.
-
-### Highlights
-
-- AWS Lambda
-- Amazon S3
-- Event Driven
-- Auto Scaling
-- Pay-per-use
-
-🔗
-
-https://github.com/hsbangga7-oss/serverless-image-processing
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hsbangga7-oss&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsbangga7-oss&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hsbangga7-oss&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Kubernetes
-
-- ✅ Deploy Applications on Amazon EKS
-
-- ✅ Learn GitOps
-
-- ✅ Contribute to Open Source
-
-- ✅ Earn AWS Certification
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/hsbangga7-oss/hsbangga7-oss/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:hsbangga7@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 💭 DevOps Mindset
-
-*"Infrastructure should be reproducible.*
-
-*Deployments should be automated.*
-
-*Systems should be observable.*
-
-*Reliability should never be an afterthought."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/hsbangga) or [email](mailto:hsbangga7@gmail.com) — always open to a conversation about DevOps, infrastructure, or opportunities.
