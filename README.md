@@ -65,10 +65,4 @@ A full-stack management system for a bicycle wholesale distributor, built to pra
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsbangga7-oss&show_icons=true&theme=default&hide_border=true&hide_title=true)
-
----
-
 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/hsbangga) or [email](mailto:hsbangga7@gmail.com) — always open to a conversation about DevOps, infrastructure, or opportunities.
